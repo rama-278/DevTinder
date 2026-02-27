@@ -20,9 +20,6 @@ const app = express();
 // });
 
 
-// app.use("/user", (req, res) => {
-//    res.send("Hellooowwew!");
-// });
 
 
 //This will only handle GET call to /user
